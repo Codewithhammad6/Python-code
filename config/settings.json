@@ -1,0 +1,35 @@
+{
+    "database": {
+        "path": "data/xray_system.db",
+        "backup_enabled": true,
+        "backup_interval_hours": 24
+    },
+    "security": {
+        "session_timeout_minutes": 30,
+        "max_login_attempts": 3,
+        "password_min_length": 8,
+        "require_special_chars": true
+    },
+    "dicom": {
+        "supported_formats": [
+            ".dcm",
+            ".dicom"
+        ],
+        "max_file_size_mb": 100,
+        "auto_import_enabled": true
+    },
+    "ui": {
+        "theme": "default",
+        "language": "en",
+        "auto_save_interval_seconds": 300
+    },
+    "logging": {
+        "level": "INFO",
+        "max_file_size_mb": 10,
+        "backup_count": 5
+    },
+    "equipment": {
+        "scanner_check_interval_seconds": 30,
+        "maintenance_reminder_days": 7
+    }
+}

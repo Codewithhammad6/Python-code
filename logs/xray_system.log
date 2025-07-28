@@ -1,0 +1,8 @@
+2025-07-28 08:21:50,646 - test_logger - INFO - test_logger:97 - Test log message
+2025-07-28 08:22:33,412 - test_logger - INFO - test_logger:97 - Test log message
+2025-07-28 08:27:48,542 - test_logger - INFO - test_logger:100 - Test log message
+2025-07-28 08:39:32,393 - test_logger - INFO - test_logger:100 - Test log message
+2025-07-28 09:01:14,738 - test_logger - INFO - test_logger:100 - Test log message
+2025-07-28 09:04:06,194 - xray_system - INFO - initialize_database:68 - Database initialized successfully
+2025-07-28 17:00:22,296 - xray_system - INFO - initialize_database:68 - Database initialized successfully
+2025-07-28 17:04:08,010 - xray_system - INFO - initialize_database:68 - Database initialized successfully
